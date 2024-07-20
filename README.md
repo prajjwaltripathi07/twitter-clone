@@ -24,7 +24,8 @@ Features:
 ![Screenshot 2024-05-04 202928](https://github.com/harshsrivastava05/Twitter-clone/assets/130855160/f47ae9ee-0cf9-4d62-8401-b570a884ded3)
 
 **Profile page**
-![Screenshot 2024-05-04 203157](https://github.com/harshsrivastava05/Twitter-clone/assets/130855160/80c40519-9441-4fe1-987c-372ce6d3d60c)
+![image](https://github.com/user-attachments/assets/2daa99f8-c716-44a4-8b02-fbe4783197e7)
+
 
 
 
