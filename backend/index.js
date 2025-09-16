@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 const app = express();
 app.use(cors({
-  origin: ["http://localhost:5173"],
+  origin: ["https://twitter-clone-alpha-wine.vercel.app/"],
   credentials: true
 }));
 app.use(express.json());
@@ -85,3 +85,4 @@ run().catch(console.dir);
 app.listen(port, () => {
   console.log(`app running on port ${port}`);
 });
+
